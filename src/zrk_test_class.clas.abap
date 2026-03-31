@@ -8,7 +8,9 @@ protected section.
 private section.
 ENDCLASS.
 
-
+"Logic1
+"Logic2
+"Here we go
 
 CLASS ZRK_TEST_CLASS IMPLEMENTATION.
 ENDCLASS.
